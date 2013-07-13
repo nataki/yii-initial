@@ -1,4 +1,4 @@
 yii-initial
 ===========
 
-yii-initial
+Test yii project
