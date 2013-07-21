@@ -1,4 +1,6 @@
 yii-initial
 ===========
 
-Test yii project
+Test yii project.
+Features:
+admin area
